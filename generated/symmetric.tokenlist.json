@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2025-07-03T05:44:45.363Z",
+    "timestamp": "2025-07-03T05:59:44.381Z",
     "tokens": [
         {
             "chainId": 40,
@@ -15,7 +15,7 @@
             "name": "Revolv",
             "symbol": "RVLV",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RVLV.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/RVLV.png"
         },
         {
             "chainId": 40,
@@ -23,7 +23,7 @@
             "name": "Symmetric 80 TSYMM 20 WTLOS",
             "symbol": "S-80TSYMM-20WTLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e.png"
         },
         {
             "chainId": 40,
@@ -79,7 +79,7 @@
             "name": "Commander",
             "symbol": "CMDR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/CMDR.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/CMDR.png"
         },
         {
             "chainId": 40,
@@ -87,7 +87,7 @@
             "name": "KINDNESS FOR SOULS",
             "symbol": "SOULS ",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/SOULS.png"
         },
         {
             "chainId": 40,
@@ -95,7 +95,7 @@
             "name": "KINDNESS FOR THE SOUL",
             "symbol": "KINDs",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/KINDS.png"
         },
         {
             "chainId": 40,
@@ -103,7 +103,7 @@
             "name": "Wrapped USK",
             "symbol": "wUSK",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WUSK.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/WUSK.png"
         },
         {
             "chainId": 40,
@@ -111,7 +111,7 @@
             "name": "ALI حيدر",
             "symbol": "ALI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/ALI.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/ALI.png"
         },
         {
             "chainId": 40,
@@ -119,7 +119,7 @@
             "name": "SOULS USD",
             "symbol": "SUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SUSD.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/SUSD.png"
         },
         {
             "chainId": 40,
@@ -175,7 +175,7 @@
             "name": "ERC4626-Wrapped Meridian Lend USDM",
             "symbol": "woUSDM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDM.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/USDM.png"
         },
         {
             "chainId": 40,
@@ -191,7 +191,7 @@
             "name": "Symmetric",
             "symbol": "SYMM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4.png"
         },
         {
             "chainId": 41,
@@ -231,7 +231,7 @@
             "name": "Symmetric on Meter",
             "symbol": "mSYMM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/mSYMM.png"
         },
         {
             "chainId": 82,
@@ -311,7 +311,7 @@
             "name": "USDT-USDC-suUSD Stable Pool",
             "symbol": "USDT-USDC-suUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png"
         },
         {
             "chainId": 82,
@@ -327,7 +327,7 @@
             "name": "MTRG-wstMTRG Stable Pool",
             "symbol": "MTRG-wstMTRG",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png"
         },
         {
             "chainId": 42793,
@@ -351,7 +351,7 @@
             "name": "Wrapped XTZ",
             "symbol": "WXTZ",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/xtz.svg"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/xtz.svg"
         },
         {
             "chainId": 42793,
@@ -367,7 +367,7 @@
             "name": "Symmetric on Etherlink",
             "symbol": "eSYMM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/eSYMM.svg"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/eSYMM.svg"
         },
         {
             "chainId": 42793,
@@ -391,7 +391,7 @@
             "name": "Symmetric on Taiko",
             "symbol": "tkSYMM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/tkSYMM.png"
+            "logoURI": "https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/tkSYMM.png"
         },
         {
             "chainId": 167000,

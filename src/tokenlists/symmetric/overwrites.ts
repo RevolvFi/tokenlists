@@ -5,15 +5,15 @@ export const overwrites: OverwritesForList = {
   [Network.Telos]: {
     '0x98A5030a449D8833166c3F1d96Db00BA2a082FbF': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RVLV.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/RVLV.png',
     }, //RVLV
     '0xd5f2a24199C3DFc44C1Bf8B1C01aB147809434Ca': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TSYMM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/TSYMM.png',
     },
     '0xbf0fa44e5611c31429188b7dcc59ffe794d1980e': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e.png',
     },
     '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E': {
       logoURI:
@@ -52,7 +52,7 @@ export const overwrites: OverwritesForList = {
     },
     '0x058D4893eFa235D86CcEeD5a7Eef0809B76c8c66': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDC-USDT.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/USDC-USDT.png',
     },
     '0xA6A5FE78A12ae40BEd9300dA6DE624c089F77ac2': {
       logoURI:
@@ -71,7 +71,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xb99C43d3bce4c8Ad9B95a4A178B04a7391b2a6EB': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RF.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/RF.png',
     },
     '0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9': {
       logoURI:
@@ -87,28 +87,28 @@ export const overwrites: OverwritesForList = {
     },
     '0xe9F5Cb51f507436E3DdDA226c8d3dF62FA3E6368': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/CMDR.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/CMDR.png',
     },
     '0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/SOULS.png',
     },
     '0x143AA2070E3b5414c68A93Ba0A99BAC8847Cbe99': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/KINDS.png',
     },
     '0xfdfF55a36f3dd3942A4Ac5Aebe68972d57296925': {
       name: 'Wrapped USK',
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WUSK.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/WUSK.png',
     }, //wUSK
     '0xce436C598027B39bcC80094B670A60184a290Fe1': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/ALI.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/ALI.png',
     }, // ALI
     '0x836EfDc24A00d42160AF3eF144Af96CBc0c09aa0': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SUSD.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/SUSD.png',
     }, // SUSD
     '0x953808eF6BE397925f71Ec0e8892e246882e4804': {
       logoURI:
@@ -136,7 +136,7 @@ export const overwrites: OverwritesForList = {
     }, //myaUSDM
     '0xbB5cA1404CeEd710487af13879e8aa9e36DE1Ac3': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TAPAS.jpg',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/TAPAS.jpg',
     }, //TAPAS
     '0xf1815bd50389c46847f0bda824ec8da914045d14': {
       logoURI:
@@ -163,7 +163,7 @@ export const overwrites: OverwritesForList = {
     }, //woUSDT
     '0x331a4CD2BdB5B27F41D84b0b9F029829934F7327': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/USDM.png',
     }, //woUSDM
     '0xd9d50bC52061bb29045Da753776B1367fA6e3Ad0': {
       logoURI:
@@ -173,7 +173,7 @@ export const overwrites: OverwritesForList = {
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/mSYMM.png',
     }, //mSYMM
     '0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3': {
       logoURI:
@@ -213,7 +213,7 @@ export const overwrites: OverwritesForList = {
     }, //BNB
     '0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png',
     }, //USDT-uSDC-suUSD
     '0x5647f6cc997e45b81d786baa9ecd8a1ad40ef25f': {
       logoURI:
@@ -221,13 +221,13 @@ export const overwrites: OverwritesForList = {
     }, //MST
     '0x2077a828fd58025655335a8756dbcfeb7e5bec46': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png',
     }, //MTRG-wstMTRG
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4.png',
     },
     '0xF5Dd4A1fCE57D9aCd7a4fEF03709402014b56813': {
       logoURI:
@@ -257,12 +257,12 @@ export const overwrites: OverwritesForList = {
     }, //USDT
     '0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/aSYMM.png',
     }, //aSYMM
     '0xaDCd43c78A914c6B14171aB1380bCFcfa25cd3AD': {
       symbol: 'wART',
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/WART.png',
     }, //WART
     '0x7bf8b8Da6E71ebc92383dAf6f32F82b073a303cD': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
@@ -283,7 +283,7 @@ export const overwrites: OverwritesForList = {
     }, // WETH
     '0x9c9D0025F27756217BDBb584cFB9Dd4aA58B1FEc': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/tkSYMM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/tkSYMM.png',
     }, // tkSYMM
     '0xa9d23408b9ba935c230493c40c73824df71a0975': {
       logoURI:
@@ -324,14 +324,14 @@ export const overwrites: OverwritesForList = {
     }, //USDT
     '0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/xtz.svg',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/xtz.svg',
     }, // WXTZ
     '0xfc24f770F94edBca6D6f885E12d4317320BcB401': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
     }, // WETH
     '0x332e0bf729f06C9e08ffA42ABb1312Fcd16289e7': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/eSYMM.svg',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/eSYMM.svg',
     }, // eSYMM
     '0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F': {
       logoURI: 'https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg',
@@ -350,19 +350,19 @@ export const overwrites: OverwritesForList = {
       name: 'Wrapped Vana',
       symbol: 'VANA',
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/WVANA.svg',
     }, //WVANA
     '0x3216EF647DFb90B73176e33fFe34EFF2456813A3': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VSYMM.svg',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/VSYMM.svg',
     }, //VSYMM
     '0xB18A68588e4551B880011aF27DF5347B99b444C2': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/VOLARA.png',
     }, //VOL
     '0xf5A960F8f0D04AaeDC44F2619977A2B7DE9CeF09': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/DNA.png',
     }, //DNA
   },
   [Network.Artela]: {
@@ -372,7 +372,7 @@ export const overwrites: OverwritesForList = {
     }, //ART
     '0xdd58D43a829067129B8C37f1924D31B1896ac0C6': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png',
+        'https://raw.githubusercontent.com/revolvfi/tokenlists/main/src/assets/images/tokens/aSYMM.png',
     }, //aSYMM
     '0xcba2aeec821b0b119857a9ab39e09b034249681a': {
       logoURI:
