@@ -1,12 +1,12 @@
-# Balancer tokenlists
+# Revolv tokenlists
 
-This is a general purpose tokenlist generation app that Balancer uses to
+This is a general purpose tokenlist generation app that Revolv uses to
 generate it's
 [tokenlist](https://github.com/balancer/tokenlists/blob/main/generated/balancer.tokenlist.json).
 
-## Make changes to the Balancer tokenlist
+## Make changes to the Revolv tokenlist
 
-To make changes to the balancer tokenlist edit the files in
+To make changes to the revolv tokenlist edit the files in
 [src/tokenlists/balancer](https://github.com/balancer/tokenlists/tree/main/src/tokenlists/balancer).
 
 1. `metadata.ts` - Edit this to change the highlevel tokenlist metadata.
