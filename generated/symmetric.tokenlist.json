@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2025-07-03T05:59:44.381Z",
+    "timestamp": "2025-07-14T08:14:24.498Z",
     "tokens": [
         {
             "chainId": 40,
@@ -151,7 +151,7 @@
             "name": "WETH",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png"
         },
         {
             "chainId": 40,

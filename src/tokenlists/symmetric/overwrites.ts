@@ -151,7 +151,8 @@ export const overwrites: OverwritesForList = {
         'https://res.coinpaper.com/coinpaper/wrapped_bitcoin_wbtc_logo_b8ecd60f3f.png',
     }, //WBTC
     '0xbab93b7ad7fe8692a878b95a8e689423437cc500': {
-      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+      logoURI:
+        'https://assets.coingecko.com/coins/images/279/standard/ethereum.png',
     }, //WETH
     '0x59716b2745aB9639b1685609863b3bD63873aD02': {
       logoURI:
